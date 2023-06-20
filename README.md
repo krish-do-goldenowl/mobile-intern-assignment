@@ -11,19 +11,20 @@ This is the instruction for web developer intern assignment at [Golden Owl](http
 
 Your application should have at least features in [Must have](#must-have), things in [Nice to have](#nice-to-have) is optional (but yeah, it's attractive if you have).
 
-# Please select one corresponding technical with the position you applied
-
-**Technical**:
+# Please select one corresponding technical/platform with the position you applied
 - **Flutter**:
-  + Framework*: Flutter >= 3.x.x
-  + Language*: Dart
-  + Platform*: Web/android
-  + State management*: Provider/Bloc/GetX/riverpod
+  + Framework: Flutter >= 3.x.x
+  + Language: Dart
+  + Platform: Web/android
+  + State management: Provider/Bloc/GetX/riverpod
   + Bonus: animation, cache, Bloc
 - **Android**:
   + Language: Kotlin
 - **iOS**: 
-  + Language: Swift
+  + Language:  Swift
+  + Platform: iOS
+  + Design Pattern: MVC
+  + Bonus: Constraint, delegate, closure
 
 ### Must have:
 
