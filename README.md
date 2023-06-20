@@ -7,8 +7,14 @@ This is the instruction for web developer intern assignment at [Golden Owl](http
 [Live Demo](https://gshoes.vercel.app)
 
 # Requirements
+**PLEASE pay the hard effort for testing, we will ignore all projects that has bugs**
 
 Your application should have at least features in [Must have](#must-have), things in [Nice to have](#nice-to-have) is optional (but yeah, it's attractive if you have).
+- Flutter:
+  + Use Provider/Bloc/GetX/riverpod for state management
+  + Bonus: animation, cache, Bloc
+- Kotlin: Updating
+- Swift: Updating
 
 ### Must have:
 
