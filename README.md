@@ -11,7 +11,7 @@ This is the instruction for web developer intern assignment at [Golden Owl](http
 
 Your application should have at least features in [Must have](#must-have), things in [Nice to have](#nice-to-have) is optional (but yeah, it's attractive if you have).
 - Flutter:
-  + Use Provider/Bloc/GetX/riverpod for state management
+  + Use: Provider/Bloc/GetX/riverpod for state management
   + Bonus: animation, cache, Bloc
 - Kotlin: Updating
 - Swift: Updating
