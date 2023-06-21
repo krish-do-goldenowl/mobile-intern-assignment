@@ -15,7 +15,7 @@ Your application should have at least features in [Must have](#must-have), thing
 - **Flutter**:
   + Framework: Flutter >= 3.x.x
   + Language: Dart
-  + Platform: Web/android
+  + Platform: Web
   + State management: Provider/Bloc/GetX/riverpod
   + Bonus: animation, cache, Bloc
 - **Android**:
@@ -45,7 +45,7 @@ Your application should have at least features in [Must have](#must-have), thing
 
 - Responsive design (look good on all devices: desktops, tablets & mobile phones).
 - Smooth animations (don't really need to be same as the demo, just do what you think is good).
-- Deploy the application to heroku.
+- Deploy the application to Firebase hosting for Flutter web.
 
 # Technical Requirements
 
